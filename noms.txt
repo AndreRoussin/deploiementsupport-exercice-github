@@ -1,5 +1,6 @@
 # Noms
 
 - Pier-Luc Brault
-
+- André Roussin
+- Carmen Aduriz
 
